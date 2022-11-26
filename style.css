@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(24, 171, 171);
+}
+
+.title {
+    color: darkred;
+    text-align: center;
+}
+
+.material {
+    color: darkred;
+    font-size: medium;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.osnova {
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+    text-align: center;
+}
+
+.postojanje {
+    color: black;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+
+.organizamvrsta1 {
+    color: black;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.organizamvrsta2 {
+    color: black;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
